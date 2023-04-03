@@ -1,0 +1,7 @@
+31-9-27
+
+Iniciamos con el proyecto el cual permite llevar el reporte de gasto de los cultivos
+
+Iniciamos con la creacion de una carpera reporAgro
+    git init 
+        permite iniciar con el versionamiento del proyecto
