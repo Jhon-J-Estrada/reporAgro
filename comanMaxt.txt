@@ -7,4 +7,10 @@ Iniciamos con la creacion de una carpera reporAgro
         permite iniciar con el versionamiento del proyecto
     git add -A 
         Adiciona los archivo ya modificados 
-    
+    git commit -m 'descrip comiit'
+        Se crea una primera copia del proyecto
+    git remote add origin https://github.com/Jhon-J-Estrada/reporAgro.git
+
+    git push -u origin master 
+     igresamos el usuario
+     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
